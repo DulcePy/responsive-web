@@ -7,4 +7,4 @@
 
 ### Best international spots
 
-<img src="https://github.com/DulcePy/portfolio-dulce/blob/main/images/projects/recomendationcafes.png" alt="Website" width="700">
+<img src="https://github.com/DulcePy/portfolio-dulce/blob/main/images/projects/recomendationcafes.png" alt="Website" width="800">
