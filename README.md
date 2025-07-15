@@ -1,10 +1,14 @@
-## Recommendation spots website
+## 📍 Recommendation spots website
 
 <p>
-  This is a responsive website featuring recommendations for international cafés and restaurants. Through this platform, the goal is to inspire others to discover new places, support local businesses, and enjoy global cuisine in cozy and unique settings. </br></br>
-  Built with HTML, CSS and JavaScript. The website is hosted on <a href="https://travelers-spots.netlify.app/">Netlify</a>
+  😊 This is a responsive website featuring recommendations for international cafés and restaurants. Through this platform, the goal is to inspire others to discover new places, support local businesses, and enjoy global cuisine in cozy and unique settings. </br></br>
+  💡 Built with HTML, CSS and JavaScript. The website is hosted on <a href="https://travelers-spots.netlify.app/">Netlify</a>
 </p>
 
-### Best international spots
+### Best international spots ✨
 
-<img src="https://github.com/DulcePy/portfolio-dulce/blob/main/images/projects/recomendationcafes.png" alt="Website" width="800">
+<img src="images/recomendationcafes.png" alt="Recomendation cafes" width="800">
+
+### Top 5 Best International spots ⭐🤩
+
+<img src="images/top5-best-spots.png" alt="Top 5" width="800">
